@@ -1,5 +1,5 @@
 {
-  "name": "react-typescript-pdf-reader",
+  "name": "react-typescript-pdf-reader-built",
   "version": "0.0.5",
   "description": " Pdf reader for react app written in Typescript",
   "main": "build/index.js",
